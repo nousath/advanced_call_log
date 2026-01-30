@@ -9,7 +9,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/Advance_call_log.png" alt="advanced_call_log screenshot" width="780" />
+  <img src="screenshots/Advance_call_log.png" alt="advanced_call_log screenshot" width="50%" />
 </p>
 
 ---
