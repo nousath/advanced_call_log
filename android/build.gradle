@@ -1,0 +1,37 @@
+group 'com.nh97.advanced_call_log'
+version '1.0.0'
+
+buildscript {
+  repositories {
+    google()
+    mavenCentral()
+  }
+  dependencies {
+    classpath 'com.android.tools.build:gradle:8.1.0'
+  }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+  namespace 'com.nh97.advanced_call_log'
+  compileSdkVersion 34
+
+  defaultConfig {
+    minSdkVersion 21
+  }
+
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_1_8
+    targetCompatibility JavaVersion.VERSION_1_8
+  }
+}
+
+repositories {
+  google()
+  mavenCentral()
+}
+
+dependencies {
+  implementation 'androidx.core:core:1.13.1'
+}
