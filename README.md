@@ -6,6 +6,12 @@
 
 > **Platforms:** ✅ Android  |  ❌ iOS (not supported by iOS APIs)
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/Advance_call_log.png" alt="advanced_call_log screenshot" width="780" />
+</p>
+
 ---
 
 ## ✨ Features
@@ -134,3 +140,13 @@ https://nh97.co.in/
 ## 📄 License
 
 MIT
+
+---
+
+## ☕ Sponsor a cup of tea
+
+If this package saves you development time, consider supporting my work.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%98%95-blue?logo=githubsponsors)](https://github.com/sponsors/nousath)
+
+https://github.com/sponsors/nousath

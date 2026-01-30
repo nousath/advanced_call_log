@@ -1,6 +1,6 @@
 name: advanced_call_log
 description: Read and query Android call history with built-in runtime permission helpers and dual-SIM (best-effort) metadata. iOS is not supported.
-version: 1.0.0
+version: 1.0.1
 homepage: https://nh97.co.in/
 repository: https://github.com/nousath/advanced_call_log
 issue_tracker: https://github.com/nousath/advanced_call_log/issues
@@ -24,3 +24,7 @@ flutter:
       android:
         package: com.nh97.advanced_call_log
         pluginClass: AdvancedCallLogPlugin
+
+screenshots:
+  - description: Call log list screen (Android).
+    path: screenshots/Advance_call_log.png

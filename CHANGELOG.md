@@ -1,6 +1,9 @@
-## 1.0.0
+## 1.0.1
+- Documentation improvements.
+- Added package screenshot.
 
-- Initial release
-- Read and query Android call logs
-- Runtime permission helpers (READ_CALL_LOG, READ_PHONE_STATE)
-- Best-effort SIM display name via SubscriptionManager
+## 1.0.0
+- Initial release.
+- Added Android call log read/query APIs.
+- Added runtime permission helpers (`READ_CALL_LOG`, `READ_PHONE_STATE`).
+- Added best-effort SIM label detection via `SubscriptionManager`.
